@@ -1,4 +1,0 @@
-<<<<<<< HEAD
-=======
-..
->>>>>>> branch 'master' of https://github.com/SMU-SE-Admin/18-1_2_TWOBE_Doc.git
